@@ -1,4 +1,4 @@
-#POSTWORK 2 14/01/2021
+#POSTWORK 2 12/01/2021
 #Jesus Ramseths Echeverria Rivera
 
 #1.Importa los datos de soccer de las temporadas 2017/2018, 2018/2019 y 2019/2020 de la primera division de la liga española a R
