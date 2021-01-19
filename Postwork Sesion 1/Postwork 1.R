@@ -7,7 +7,7 @@ datos$FTHG
 datos$FTAG 
 
 #Probabilidades Marginales Estimadas
-golesCasa <- table(datos$FTHG)/nrow(datos)*100
-golesVisita <- table(datos$FTAG)/nrow(datos)*100
+golesCasa <- table(datos$FTHG)/nrow(datos)
+golesVisita <- table(datos$FTAG)/nrow(datos)
 #Probabildades conjuntas
-golesConjuntos < - table(datos$FTHG, datos$FTAG)/nrow(datos)*100
+golesConjuntos <- table(datos$FTHG, datos$FTAG)/nrow(datos)
