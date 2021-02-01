@@ -6,4 +6,5 @@
   <li><a href="https://github.com/Ramseths/Postwork-BEDU/tree/master/Postwork%20Sesion%202">Postwork 2 12/01/2021</a></li>
   <li><a href="https://github.com/Ramseths/Postwork-BEDU/tree/master/Postwork%20Sesion%203">Postwork 3 14/01/2021</a></li>
   <li><a href="https://github.com/Ramseths/Postwork-BEDU/blob/master/Postwork%20Sesion%205/Postwork%205.R">Postwork 5 21/01/2021</a></li>
+  <li><a href="https://github.com/Ramseths/Postwork-BEDU/blob/master/Postwork%20Sesion%206/Postwork%206.R">Postwork 6 26/01/2021</a></li>
 </ul>
