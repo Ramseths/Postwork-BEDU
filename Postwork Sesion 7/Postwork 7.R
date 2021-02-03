@@ -3,10 +3,10 @@
 
 library(mongolite)
 
+#Realizando conexion
+match <- mongo(collection = "match", db="match_games", url = "mongodb+srv://HDRAMSETHS:<password>@cluster0.pthh3.mongodb.net/test")
 
-match <- mongo(collection = "match", db="match_games",
-               url = "mongodb+srv://HDRAMSETHS:<password>@cluster0.pthh3.mongodb.net/test")
-
+#Obteniendo el numero de registros
 match$count()
 
 match$find('{"HomeTeam":"Real Madrid","Date":"2015-12-20"}')
